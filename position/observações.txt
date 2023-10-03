@@ -1,0 +1,79 @@
+
+- FONTE DO H1:
+    - Open Sans
+
+- FONTE DO TEXTO GERAL:
+    - Crimson Text
+
+- BODY:
+    - background-color: #F2FFFC;
+    - font-size: 120%;
+
+- CONTEUDO PRINCIPAL:
+    - width: 47%;
+    - padding: 30px;
+
+- TITULO PRINCIPAL:
+    - font-size: 60px;
+    - background-color: #851944;
+    - color: #FFF;
+    - padding: 25px;
+    - BORDA NO BOTTOM: 10px;
+
+- SUBSTITULOS (H2):
+    - font-size: 30px;
+    - clear: both; (pesquisar o que significa este argumento)
+
+- PARÁGRAFOS:
+    - margin: 20px 0;
+
+- NOME NA BARRA LATERAL (FULANO DA SILVA)
+    - font-size: 30px;
+    - margin-bottom: 25px;
+
+- COR DOS LINKS NO CONTEÚDO:
+    - #851944
+
+- RODAPÉ:
+    - color: #F2FFFC;
+    - padding: 20px;
+
+- CONTEÚDO:
+
+(PARÁGRAFO)
+Moro em Recife mas atendo clientes do mundo todo. Sou conhecido por fazer produtos de (ITÁLICO - qualidade), (ITÁLICO - durabilidade) e que
+(ITÁLICO - agregam valor) para meus clientes.
+
+(PARÁGRAFO)
+Trabalho usando a web como plataforma, ou seja, respiro HTML5, CSS3 e JavaScript. Crio sites para todos, seguindo as principais diretivas de
+    (NEGRITO - acessibilidade, responsividade e web semântica), sem descuidar da qualidade de código.
+
+(H2 - Como trabalho)
+
+(QUADRO DE CITAÇÃO)
+Fulano é o melhor desenvolvedor front-end com quem já trabalhei. Muito eficiente e muito capaz. Recomendo sem dúvidas!
+    José da Silva, Fiat
+
+
+(PARÁGRAFO)
+Satisfazer meus clientes é prioridade. Para isso, garanto um processo de desenvolvimento altamente interativo, baseado em feedback contínuo.
+    (NEGRITO - Não trabalho com escopo fechado:) o cliente é que decide quando o produto está pronto.
+
+(PARÁGRAFO)
+Também não trabalho com prazos fechados: (NEGRITO - qualidade é importante demais para ser sacrificada.)
+
+(H2 - Experiência)
+
+(QUADRO DE CITAÇÃO)
+Fulano domina as tecnologias como ninguém. Eu apresentava um problema, ele tinha na ponta da língua a
+solução mais adequada com as tecnologias mais recentes.
+    Cicrano Jorge, Petrobrás
+
+(PARÁGRAFO)
+Já desenvolvi projetos para grandes empresas como (LINK - BMW (http://bmw.com)), (LINK - UOL(http://www.uol.com.br)) e 
+    (LINK - IBM (http://www.ibm.com.br)). Neles, o foco principal era entregar uma experiência imersiva e impactante para o usuário final
+    sem descuidar do desempenho e da acessibilidade da página.
+
+(H2 - Comunidade)
+(PARÁGRAFO)
+Procuro repassar meu conhecimento para a comunidade. Para isso, já dei diversas palestras e mantenho um blog.

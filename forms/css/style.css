@@ -1,0 +1,45 @@
+form{
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5mm;
+    border: 2mm;
+    border-radius: 1cm;
+    border-color: black;
+    border-style: solid;
+    background-color: antiquewhite;
+}
+
+label{
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+}
+
+input, textarea {
+    font: normal;
+    font-family: sans-serif;
+
+    width: 300px;
+    box-sizing: border-box;
+    /* -moz-box-sizing: border-box; */
+    border: 1px solid #999;
+}
+
+textarea {
+    vertical-align: top;
+
+    /* Para dar espaço suficiente para digitar algum texto */
+    height: 5em;
+
+    resize: vertical;
+}
+
+.button{
+    padding-left: 90px;
+}
+
+button {
+    
+    margin-left: 0.5em;
+}

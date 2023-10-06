@@ -1,0 +1,36 @@
+form{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-color: antiquewhite;
+    padding: 5mm;
+
+    border: 2mm;
+    border-radius: 1cm;
+    border-style: solid;
+}
+
+div{
+    flex-direction: column;
+}
+
+label{
+    width: 75px;
+    display: flexbox;
+    /* text-align: right; */
+}
+
+input, textarea{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+textarea{
+    vertical-align: top;
+    resize: vertical;
+}
+
+button{
+    margin-left: 80px;
+}
